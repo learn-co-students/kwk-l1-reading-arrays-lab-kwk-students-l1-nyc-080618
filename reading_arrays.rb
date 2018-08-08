@@ -7,16 +7,16 @@ STUDENT_NAMES = [
   "Rihanna"
 ]
 
-def first_student_by_index
-  # Write a solution that returns the first student in the array student_names
+def ("Adele")
+   puts STUDENT_NAMES
 end
 
-def fourth_student_by_index
-  # Write a solution that returns the first student in the array student_names
+def ("Adele")
+ puts STUDENT_NAMES
 end
 
-def last_student_by_index
-  # Write a solution that returns the first student in the array student_names
+def ("Rihanna")
+ puts STUDENT_NAMES
 end
 
 def first_student_by_method
